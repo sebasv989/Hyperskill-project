@@ -1,0 +1,35 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;  // necessary import statement
+      
+      public class Main {
+      
+          public static void main(String[] args) {
+      
+              // Create new Scanner object for reading the input
+              Scanner scanner = new Scanner(System.in);
+      
+              // Read a floating point number
+              // USER INPUT REQUIRED HERE
+      
+              // Round it down and square it
+              // USER INPUT REQUIRED HERE
+      
+              // Print the result
+              // USER INPUT REQUIRED HERE
+      
+              // Remember to close the scanner to prevent resource leaks
+              scanner.close();
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/44537#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 05 Mar 2024 22:56:31 UTC"
+record: -1
+submission_language: java17

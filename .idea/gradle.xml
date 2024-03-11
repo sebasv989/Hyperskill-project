@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/test-results" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Calculating square, cube and fourth power of a number" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Expressions" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Java Arithmetic Operations Magic" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Mean calculator" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Parentheses" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Performing operations on two user-input integers" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Sum, multiplication, and division of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Code style for a project" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Code with style issues" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Determining the sign of an integer" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Indentation" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/The number of spaces" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Character Formatting" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Creating a personalized greeting based on name and height" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Display an Integer" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Find the correct Statement" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Format-Specifiers" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Integer Formatting" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/String Format Precision" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/The battle for Mathematics" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Big numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Desks" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Difference of times" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Match operations and their meanings" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Squirrels and nuts" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Different types" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Direct input" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Greet user with their name and age" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Print strings in the reverse order" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Printing strings in the same order" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Rounding down and squaring a floating point number" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Understanding System.in" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a specific character from a greeting message" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a substring" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
